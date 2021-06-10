@@ -1,2 +1,0 @@
-# whalecs.github.io
-blog
